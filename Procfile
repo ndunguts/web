@@ -1,0 +1,1 @@
+web: gunicorn flms.wsgi --log-file -
